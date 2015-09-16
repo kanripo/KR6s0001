@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 經律異相
+#+DATE: 2015-08-30 22:29:55.321245
+#+PROPERTY: JUAN 0
